@@ -8,3 +8,7 @@ teja gadi project
 >>>>>>> npm start
 >>>>>>> Open your web browser and visit http://localhost:8000
 >>>>>>>  
+
+
+u can view this project here : https://telugunewstej.vercel.app/
+deployed using vercel
