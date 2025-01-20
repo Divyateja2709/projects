@@ -1,11 +1,11 @@
 .navbar {
-  background-color: rgb(41, 47, 51) !important;
-  padding: 20px !important;
-  font-size: 18px !important;
+  background-color: #236e20 !important;
+  padding: 30px !important; /* Increased padding */
+  font-size: 20px !important; /* Increased font size */
 }
 
 .nav-brand {
-  font-size: 23px !important;
+  font-size: 26px !important; /* Increased font size */
   margin-left: 10px !important;
   font-weight: 700 !important;
 }
@@ -39,10 +39,10 @@
   border-radius: 0 !important;
   border-top-left-radius: 13px !important;
   border-bottom-left-radius: 13px !important;
-  padding: 11px !important;
+  padding: 15px !important; /* Increased padding */
   margin-left: 13px !important;
   margin-right: -9px !important;
-  font-size: 18px !important;
+  font-size: 20px !important; /* Increased font size */
   background-color: #31383e !important;
   color: #fff !important;
   border: 0 !important;
@@ -54,19 +54,19 @@
 }
 
 .logo {
-  width: 45px !important;
+  width: 50px !important; /* Increased logo size */
 }
 
 .search-btn {
-  background-color: #005abb !important;
+  background-color: #236e20 !important; /* Updated color */
   color: white !important;
   font-weight: 700 !important;
   border-radius: 0 !important;
   border-top-right-radius: 13px !important;
   border-bottom-right-radius: 13px !important;
-  padding: 8px 15px !important;
+  padding: 12px 18px !important; /* Increased padding */
   border-color: #323762b7 !important;
-  font-size: 18px !important;
+  font-size: 20px !important; /* Increased font size */
   margin-right: 10px !important;
 }
 
@@ -76,5 +76,5 @@
 }
 
 .search-btn:disabled {
-  background-color: #005abb !important;
+  background-color: #236e20 !important;
 }
